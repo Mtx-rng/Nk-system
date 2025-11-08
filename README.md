@@ -30,6 +30,7 @@ NUKERS Tools é um script bash simples e interativo que facilita a instalação 
 ## Uso
 ``git clone https://github.com/Mtx-rng/Nk-system.git``
 
+``cd Nk-system``
 
 ``chmod +x menu.sh``
 
